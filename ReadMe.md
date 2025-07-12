@@ -1,4 +1,4 @@
-### Resources on Various Topics of Hardware Security
+# Resources on Various Topics of Hardware Security
 
 ## Courses/Lectures
 * Prof. Amir Moradi's Lectures: [Physical Attacks and Countermeasures, and Cryptography on Hardware](https://www.youtube.com/@AmirMoradi_impsec/playlists)
@@ -6,7 +6,7 @@
 * Lectures from USF Crypto Center: [Introduction to Cryptography, and Lattice-Based Cryptography](https://www.youtube.com/@usfcryptocenter9924/playlists), [Lecture Notes](https://www.usf-crypto.org/lattice-based-crypto/)
 * [PhD Course on AI and Cryptography](https://www.youtube.com/watch?v=vxlUxhl_uEA&list=PLj3Zm3oqZotP_WZQjfxl3zDfSeoN9o_yp)
 
-# Forums/Groups
+## Forums/Groups
 * An Open-course Ecosystem for Implementation Security Testing: [OPTIMIST](https://optimist-ose.org/)
 
 ## LBC Papers
